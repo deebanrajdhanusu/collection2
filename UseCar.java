@@ -26,7 +26,7 @@ public class UseCar {
 		for(String x:carss.keySet()) {
 			System.out.println(carss.get(x));
 		}
-		
+		System.out.println(carss);
 		
 		
 
